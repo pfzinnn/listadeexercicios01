@@ -1,0 +1,5 @@
+print ("Hello World")
+print ("Hello","World")
+print ("Hello!\n My name is John")
+print ("Hello!\t My name is John")
+print ("Um dia, ela disse: "Estarei aqui por você".")

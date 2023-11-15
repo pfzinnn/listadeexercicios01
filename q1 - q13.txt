@@ -1,0 +1,83 @@
+q1
+
+mover o azul para o H2
+mover o verde para o H3
+mover o azul para o H3
+mover o amarelo para o H2
+mover o azul para o H1
+mover o verde para o H2
+mover o azul para o H2
+mover o vermelho para o H3
+mover o azul para o H3
+mover o verde para o H1
+mover o azul para o H1
+mover o amarelo para o H3
+mover o azul para o H2
+mover o verde para o H3
+mover o azul para o H3
+
+q2
+
+a - 255
+b - 2^n-1
+
+q3
+
+5
+
+q4
+
+a mulher de basilio
+
+q5
+
+escolha um fruto do pote rotulado como "Ambas".
+
+se o fruto escolhido for uma maçã, então o pote rotulado como "Maçãs" contém apenas laranjas, e o pote rotulado como "Laranjas" contém ambas as frutas.
+se o fruto escolhido for uma laranja, então o pote rotulado como "Laranjas" contém apenas maçãs, e o pote rotulado como "Maçãs" contém ambas as frutas.
+troque os rótulos dos potes "Maçãs" e "Laranjas".
+
+como todos os rótulos estão incorretos, a troca garantirá que agora cada pote tem o rótulo correto.
+
+q6
+
+ted é o cavaleiro e os outros o patife
+
+q7
+
+a - são como um roteiro
+b - linguagem natural, fluxograma e pseudocodigo 
+c - pegar o a teperatura, fazer com a formula, ver se a temperatura f ta acima de 100 e exibir se está com febre ou não
+
+q8
+
+a - linguagem que a gente entende
+b - linguagem que a maquina entende (0 e 1)
+d - linguagem que permite conversarmos com a maquina
+c - o compilador traduz um por um e o interpretador traduz tudo
+
+q9
+
+linguagens de alto nivel são linguagens que conseguimos utilizar melhor por serem proximos a nossa linguagem enquanto linguagem de baixo nivel sao linguagens mais dificeis de se entender
+
+q10
+
+x = 2
+x = 6
+resultado = x*y
+a diferença é porque cada uma serve pra uma coisa
+
+q11
+
+entrada, saída, atribuição, condicionais, funções, operantes aritméricos, funções e loops
+python não existe uma instrução de incremento/decremento unário
+
+q12
+
+variáveis são caixas que tem informação
+customer-list
+
+q13
+
+variaveis que não se alteram
+

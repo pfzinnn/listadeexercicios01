@@ -1,0 +1,5 @@
+a = input("nome:")
+b = input("matricula:")
+c = int(input("horastrabalhadas:"))
+d = float(input("salario:"))
+print(a,b,c,d)
